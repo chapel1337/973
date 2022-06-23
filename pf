@@ -1,7 +1,7 @@
 -- originally made by [unknown]
 -- edited by chapel1337
 
-local windows = loadstring(game:HttpGet("https://raw.githubusercontent.com/ZepsyyCodesLUA/Synapse-Library-OBFUSCATED-/main/Source.lua"))()
+local windows = loadstring(game:HttpGet("https://chapel1337.github.io/973/windowsLib"))()
 local win = windows:Create({
     Title = "973",
     Game = "phantom forces"
